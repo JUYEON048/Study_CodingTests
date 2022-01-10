@@ -34,7 +34,7 @@ print(result)
 #include <iostream>
 
 std::string inputData;
-
+ 
 int dx[] = {-2, -1, 1, 2, 2, 1, -1, -2};
 int dy[] = {-1, -2, -2, -1, 1, 2, 2, 1};
 
