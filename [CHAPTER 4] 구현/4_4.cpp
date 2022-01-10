@@ -1,11 +1,6 @@
 // 4_4.cpp
 // 게임개발
 
-//Answer _ Python
-/*
-
-*/
-
 //Answer _ c++
 #include <iostream>
 
