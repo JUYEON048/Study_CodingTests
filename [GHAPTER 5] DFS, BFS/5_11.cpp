@@ -67,7 +67,7 @@ int main(void) {
             scanf("%1d", &graph[i][j]);
         }
     }
-
+ 
     // BFS를 수행한 결과 출력
     bfs(0, 0);
     //std::cout << "result : " << bfs(0, 0) << '\n';
